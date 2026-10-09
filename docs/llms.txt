@@ -1,19 +1,10 @@
 # telegram-unban
 
-> Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
+Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, быстрее, надежнее
 
-telegram-unban возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+telegram-unban возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-## Страницы
-- Сайт: https://flowoiestimate.github.io/telegram-unban/
-- Релиз: https://github.com/Flowoiestimate/telegram-unban/releases/latest
-- Исходный код: https://github.com/Flowoiestimate/telegram-unban
-- Движок: https://github.com/bol-van/zapret
-
-## Запросы
-- обход блокировки Telegram
-- Telegram не отправляет фото
-- Telegram звонки не работают
-- zapret Telegram
-
-Windows 10/11, без VPN, бесплатно.
+Релиз: https://github.com/flowoiestimate/telegram-unban/releases/latest
+Код: https://github.com/flowoiestimate/telegram-unban
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/flowoiestimate/telegram-unban
